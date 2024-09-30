@@ -1,4 +1,4 @@
 - Hi, I'm @Joeladams02 👋
 - I'm currently studying Physics at the University of Oxford 🎓
-- Im interested in Machine Learning and Data Science
+- I'm interested in Machine Learning and Data Science
 - Drop me an email @Joeladams02@icloud.com 📧
