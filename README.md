@@ -1,5 +1,5 @@
 - Hi, I'm @Joeladams02 👋
 - I'm currently studying Physics at the University of Oxford 🎓
-- I'm also currently undertaking the IBM Full-Stack Engineer Course. Find the projects this entails in the IBM_Course repository
+- I'm also currently undertaking the IBM Full-Stack Engineer Course. Find the projects this has entailed thus far in the IBM_Course repository
 - Coming Soon: My masters project - Using spatial oversampling techniques to produce a high-res distribution map of ammonia sources over the UK
 - Drop me an email @Joeladams02@icloud.com 📧
