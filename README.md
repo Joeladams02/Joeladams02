@@ -19,8 +19,8 @@
     </p>
     <p>
       Drop me an email: 
-      <a href="mailto:Joeladams02@icloud.com">Joeladams02@icloud.com</a> 📧
-      Or check out my Linkedin <a href="
+      <a href="mailto:Joeladams02@icloud.com">Joeladams02@icloud.com</a> 📧 <br>
+      Or check out my Linkedin <a href="in/joel-adams-384a001b1"> Joeladams02 </a>
     </p>
   </div>
 </body>
