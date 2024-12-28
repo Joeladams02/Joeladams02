@@ -1,5 +1,27 @@
-- Hi, I'm @Joeladams02 👋
-- I'm currently studying Physics at the University of Oxford 🎓
-- I'm also currently undertaking the IBM Full-Stack Engineer Course. Find the projects this has entailed thus far in the IBM_Course repository
-- Coming Soon: My masters project - Using spatial oversampling techniques to produce a high-res distribution map of ammonia sources over the UK
-- Drop me an email @Joeladams02@icloud.com 📧
+<!DOCTYPE html>
+<html>
+
+<body>
+  <div class="container">
+    <h1>Hi, I'm <span class="highlight">@Joeladams02</span> 👋</h1>
+    <p>
+      I'm currently studying <b>Physics</b> at the <b>University of Oxford</b> 🎓<br>
+      I’m also currently undertaking the <b>IBM Full-Stack Engineer Course</b>.
+      I'm looking for full time roles upon graduation (July 2025) in software engineering roles!
+    </p>
+    <p>
+      Check out the projects I’ve worked on so far in the 
+      <a href="https://github.com/Joeladams02/IBM_Course" target="_blank">IBM_Course</a> repository.
+    </p>
+    <p>
+      <b>Coming Soon:</b> My masters project - <br>
+      I am using spatial oversampling techniques to produce a high-res distribution map of ammonia sources over the UK.
+    </p>
+    <p>
+      Drop me an email: 
+      <a href="mailto:Joeladams02@icloud.com">Joeladams02@icloud.com</a> 📧
+      Or check out my Linkedin <a href="
+    </p>
+  </div>
+</body>
+</html>
