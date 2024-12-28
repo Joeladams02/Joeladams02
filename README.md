@@ -24,4 +24,7 @@
     </p>
   </div>
 </body>
+<footer>
+  <p> Thanks for checking out my linkedin!</p>
+</footer>
 </html>
