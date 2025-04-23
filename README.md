@@ -25,6 +25,6 @@
   </div>
 </body>
 <footer>
-  <p> Thanks for checking out my linkedin!</p>
+  <p> Thanks for checking out my GitHub!</p>
 </footer>
 </html>
