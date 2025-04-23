@@ -6,7 +6,7 @@
     <h1>Hi, I'm <span class="highlight">@Joeladams02</span> 👋</h1>
     <p>
       I'm currently studying <b>Physics</b> at the <b>University of Oxford</b> 🎓<br>
-      I’m also currently working part time at <b>Actelligeny Capital</b>, primarily as a front-end engineer.
+      I’m also currently working part time at <b>Actelligent Capital</b>, primarily as a front-end engineer.
       I'm looking for full time roles upon graduation (July 2025) in software engineering roles!
     </p>
     <p>
